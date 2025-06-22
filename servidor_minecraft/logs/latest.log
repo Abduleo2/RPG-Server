@@ -623,3 +623,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Jun2025 17:37:36.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 was slain by Zombie
 [22Jun2025 17:37:36.883] [Server thread/INFO] [tombstone/]: The player Sir_Abduleo2 has successfully been saved
 [22Jun2025 17:37:36.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sir_Abduleo2 moved wrongly!
+[22Jun2025 17:40:13.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 was slain by Botfly
+[22Jun2025 17:40:13.725] [Server thread/INFO] [tombstone/]: The player Sir_Abduleo2 has successfully been saved
+[22Jun2025 17:42:13.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [Getting an Upgrade]
