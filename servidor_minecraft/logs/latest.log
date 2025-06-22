@@ -607,3 +607,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Jun2025 16:38:36.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 joined the game
 [22Jun2025 16:41:07.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [Book of Monsters]
 [22Jun2025 16:42:20.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [Would you Like to Know More?]
+[22Jun2025 16:44:53.988] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/1315, l='ServerLevel[world]', x=35.89, y=63.94, z=-18.41] died, message: 'Beekeeper drowned'
+[22Jun2025 16:45:51.325] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/1334, l='ServerLevel[world]', x=35.65, y=68.00, z=97.59] died, message: 'Beekeeper was slain by Savannah Zombie'
+[22Jun2025 16:47:00.319] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/1362, l='ServerLevel[world]', x=68.56, y=66.00, z=-37.56] died, message: 'Farmer was slain by Savannah Zombie'
