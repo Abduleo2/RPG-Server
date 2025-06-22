@@ -617,3 +617,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Jun2025 17:02:06.560] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=27, z=-314}
 [22Jun2025 17:02:06.605] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-244, y=27, z=-309}
 [22Jun2025 17:02:06.606] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=32, z=-305}
+[22Jun2025 17:07:55.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sir_Abduleo2> tyyyuiioooppppp
+[22Jun2025 17:09:10.650] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=347, y=67, z=123}
+[22Jun2025 17:09:11.152] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=347, y=67, z=123} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] at location
+[22Jun2025 17:09:11.152] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=347, y=67, z=123}
+[22Jun2025 17:10:18.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 was slain by Ghost
+[22Jun2025 17:10:18.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [Your First Grave]
+[22Jun2025 17:10:18.068] [Server thread/INFO] [tombstone/]: The player Sir_Abduleo2 has successfully been saved
+[22Jun2025 17:11:36.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 hit the ground too hard whilst trying to escape Ghost
+[22Jun2025 17:11:36.901] [Server thread/INFO] [tombstone/]: The player Sir_Abduleo2 has successfully been saved
+[22Jun2025 17:11:42.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has reached the goal [Here They Come]
+[22Jun2025 17:12:21.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [Knowledge of Death]
+[22Jun2025 17:12:21.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has reached the goal [Chain Death]
+[22Jun2025 17:12:21.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 was slain by Ghost
+[22Jun2025 17:12:21.185] [Server thread/INFO] [tombstone/]: The player Sir_Abduleo2 has successfully been saved
+[22Jun2025 17:12:35.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 was slain by Ghost
+[22Jun2025 17:12:35.484] [Server thread/INFO] [tombstone/]: The player Sir_Abduleo2 has successfully been saved
