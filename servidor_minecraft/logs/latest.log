@@ -610,3 +610,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Jun2025 16:44:53.988] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/1315, l='ServerLevel[world]', x=35.89, y=63.94, z=-18.41] died, message: 'Beekeeper drowned'
 [22Jun2025 16:45:51.325] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/1334, l='ServerLevel[world]', x=35.65, y=68.00, z=97.59] died, message: 'Beekeeper was slain by Savannah Zombie'
 [22Jun2025 16:47:00.319] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/1362, l='ServerLevel[world]', x=68.56, y=66.00, z=-37.56] died, message: 'Farmer was slain by Savannah Zombie'
+[22Jun2025 16:57:34.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [Acquire Hardware]
+[22Jun2025 16:58:06.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [Suit Up]
+[22Jun2025 17:02:06.558] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-246, y=27, z=-314}
+[22Jun2025 17:02:06.560] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=27, z=-315}
+[22Jun2025 17:02:06.560] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=27, z=-314}
+[22Jun2025 17:02:06.605] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-244, y=27, z=-309}
+[22Jun2025 17:02:06.606] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=32, z=-305}
