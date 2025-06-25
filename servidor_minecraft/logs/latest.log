@@ -620,3 +620,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Jun2025 14:46:04.818] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3384, l='ServerLevel[world]', x=498.50, y=80.00, z=-308.50]
 [25Jun2025 14:47:22.483] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sir_Abduleo2 lost connection: Disconnected
 [25Jun2025 14:47:22.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 left the game
+[25Jun2025 14:57:26.815] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@d31f227[id=<null>,name=Sir_Abduleo2,properties={},legacy=false] (/127.54.174.44:41527) lost connection: Disconnected
+[25Jun2025 14:57:39.395] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sir_Abduleo2[/127.54.174.44:43159] logged in with entity id 3871 at (550.5370948474059, 60.837935405731336, -595.6721364867014)
+[25Jun2025 14:57:39.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 joined the game
+[25Jun2025 15:00:00.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 was slain by Corpse Fish
+[25Jun2025 15:00:00.776] [Server thread/INFO] [tombstone/]: The player Sir_Abduleo2 has successfully been saved
+[25Jun2025 15:00:32.520] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5175, l='ServerLevel[world]', x=457.50, y=74.00, z=-335.50]
+[25Jun2025 15:00:33.872] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5189, l='ServerLevel[world]', x=459.50, y=74.00, z=-336.50]
+[25Jun2025 15:00:48.371] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5364, l='ServerLevel[world]', x=402.50, y=72.00, z=-328.50]
+[25Jun2025 15:01:00.973] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5594, l='ServerLevel[world]', x=498.50, y=80.00, z=-306.50]
